@@ -36,19 +36,10 @@ https://sd43bcca-my.sharepoint.com/:v:/g/personal/132-criddell_sd43_bc_ca/EQan3k
 
 <b><h3>Files included in this Repository</h3></b>
 
-  
-  
-  
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
+<li>microbit function vibrate (close up photo of the function)</li>
+<li>microbit code with comments (photo of all the code with comments</li>
+<li>microbit-Final-Light-Games (the JavaScript version of the code)</li>
+ 
   
   
   
