@@ -25,13 +25,17 @@ or follow the following link https://makecode.microbit.org/_EVFesxikdRa1</h4>
 
 <b>Vibrate Function</b>
 <li>Create a new function and title it vibrate</li>
-<li>Add a "digital write pin __ to __" block and input P2 and 1 so it looks like</li>
-
-
-
+<li>Add a "digital write pin __ to __" block and input P2 and 1 so it looks like "digital write pin P2 to 1"</li>
+<li>Add a "pause ___ ms" and have it be "pause 1000 ms"</li>
+<li>Copy the "digital write pin P2 to 1" but change the 1 to a 0</li>
+<li>The function is now finished. you can check the photo below to check</li>
+https://github.com/Criddell16/Github-and-Microbit-Exploration/blob/main/microbit%20function%20vibrate.png
 
 <b><h3>Link to video of the code executed</h3><b>
 https://sd43bcca-my.sharepoint.com/:v:/g/personal/132-criddell_sd43_bc_ca/EQan3kSUS7BKkIKh6l4Wju4BU84zb94pKtJZWjzGIAalQg?e=2HVEkm 
+
+<b><h3>Files included in this Repository</h3></b>
+
   
   
   
