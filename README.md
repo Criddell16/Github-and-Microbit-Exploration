@@ -19,23 +19,14 @@
 <li>Plug the microbit into your computer using the USB to micro USB cord</li>
 
 
+<b><h3>Code:</b></h3>
+To see the full information on the code please go to the 
 <b><h3>Link to video of the code executed</h3><b>
 https://sd43bcca-my.sharepoint.com/:v:/g/personal/132-criddell_sd43_bc_ca/EQan3kSUS7BKkIKh6l4Wju4BU84zb94pKtJZWjzGIAalQg?e=2HVEkm 
   
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
   
   
   
