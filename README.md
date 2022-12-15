@@ -20,11 +20,14 @@
 
 
 <b><h3>Code:</b></h3>
-<h4>To see the full information on the code please go to the "microbit code with comments" (file/photo)</h4>
+<h4>To see the full information on the code please go to the "microbit code with comments" (file/photo)
+or follow the following link https://makecode.microbit.org/_EVFesxikdRa1</h4>
 
 <b>Vibrate Function</b>
 <li>Create a new function and title it vibrate</li>
 <li>Add a "digital write pin __ to __" block and input P2 and 1 so it looks like</li>
+
+
 
 <b><h3>Link to video of the code executed</h3><b>
 https://sd43bcca-my.sharepoint.com/:v:/g/personal/132-criddell_sd43_bc_ca/EQan3kSUS7BKkIKh6l4Wju4BU84zb94pKtJZWjzGIAalQg?e=2HVEkm 
